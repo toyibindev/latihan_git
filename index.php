@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+Halaman Website
+<ul>
+    <li>Home</li>
+</ul>
     
 </body>
 </html>
