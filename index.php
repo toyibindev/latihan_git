@@ -9,6 +9,7 @@
 Halaman Website
 <ul>
     <li>Home</li>
+    <li>Team</li>
 </ul>
     
 </body>
